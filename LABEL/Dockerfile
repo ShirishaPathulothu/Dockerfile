@@ -1,4 +1,4 @@
 FROM almalinux:9
-LABEL Company= "Infosys" \
+LABEL Company= "infosys" \
       Experience= "3years" \
-      Date of Join= "Jan 19"
+      Date of Join= "jan 19"
